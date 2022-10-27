@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.8; // 0.8.12    ^ for this verison and all 0.8s above OR >=0.8.7 <0.9.0
+pragma solidity ^0.8.7; // 0.8.12    ^ for this verison and all 0.8s above OR >=0.8.7 <0.9.0
 
 // EVM ETHEREUM VIRTUAL MACHINE
 // Avax, fantom, polygon
